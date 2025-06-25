@@ -3,13 +3,20 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "7600636316:AAHLJxFXQMu1BoO-4_Dz3yyRbN0tHEYOXeg";
+const BOT_TOKEN = "7557547433:AAFfxPlGbp9tQU1rsyMW9RqgFjZx1bGxX8A";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://eligible-hilda-frozenbotspvt-ae522a1a.koyeb.app";
 
 //Pro people: don't change this else your bot will be fucked.
-const ASSISTANT_ID = "7049510852";
+
+
+
+
+
+
+
+const ASSISTANT_ID = "7927705119";
 
 
 let songQueue = [];
